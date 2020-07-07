@@ -1,0 +1,45 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    background-image: url(paper-background.jpg);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.name
+{
+    background: rgb(32, 161, 133);
+    padding: 10px;
+}
+
+.section-1
+{
+    background: white;
+}
+
+.name ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+}
+
+.section-1 ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+}
+
+h1 {
+    color: black;
+    font-family: "monospace";
+    float: left;
+}
